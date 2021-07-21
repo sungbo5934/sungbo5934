@@ -39,6 +39,8 @@
     /**
     * @description :
     */
+    
+2. https://programmers.co.kr/ 문제 풀기
 <!--
 **sungbo5934/sungbo5934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
