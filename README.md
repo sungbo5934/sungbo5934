@@ -43,7 +43,7 @@
 2. https://programmers.co.kr/ 문제 풀기
 3. 프로그래머스 이해안되는 문제
    - https://programmers.co.kr/learn/courses/30/lessons/42578
-   - 
+   - https://programmers.co.kr/learn/courses/30/lessons/1829
 <!--
 **sungbo5934/sungbo5934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
