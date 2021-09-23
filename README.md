@@ -1,5 +1,8 @@
 ### Hi there 👋
 [![Sungbo's github stats](https://github-readme-stats.vercel.app/api?username=sungbo5934)](https://github.com/anuraghazra/github-readme-stats)
+1. 1일 1커밋 시작      ( 2021 / 11 / 01 )
+2. 토이 프로젝트 진행   ( 2021 / 12 / 01 )
+3. 블로그 관리         ( 2021 / 12 / 01 )
 <!--
 1. 이클립스 깔끔 주석 템플릿 ( JAVA )
   - Class
