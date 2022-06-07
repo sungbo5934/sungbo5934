@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Sungbo's github stats](https://github-readme-stats.vercel.app/api?username=sungbo5934)](https://github.com/anuraghazra/github-readme-stats)
 
-1. jvm 환경에서의 간단한 알고리즘 구현 
+1. 리트코드 2일 1문제 시작 ( 2022.06.07 ~ ) 
 <!--
 1. 이클립스 깔끔 주석 템플릿 ( JAVA )
   - Class
